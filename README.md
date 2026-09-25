@@ -1,6 +1,6 @@
 # 👋 Hey, I'm archery
 
-**Builder since 13 | B2B Sales Lead pivoting into AI & tech**
+**Builder since 13 | Self-taught developer going deep on AI**
 
 ---
 
