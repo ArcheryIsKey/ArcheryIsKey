@@ -6,7 +6,7 @@
 
 ## About me
 
-I'm self-taught and I've been coding since I was 13. These days I'm a B2B sales lead. I once generated $40k on a single week-long work trip, and I'm bringing that same energy into software. Right now I'm working toward the Google Professional Agentic Architect Certification and going deeper into AI and tech.
+👋 Hey, I'm archery. I've been coding since I was 13, self-taught. I build Minecraft server plugins in Java, cross-platform apps with Flutter, Firebase, and Tauri, and lately I've been going deep on AI, working through Google's Professional Agentic Architect Certification.
 
 ## 🛠️ Tech Stack
 
