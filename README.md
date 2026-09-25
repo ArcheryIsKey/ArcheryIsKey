@@ -6,7 +6,7 @@
 
 ## About me
 
-Self-taught developer coding since I was 13. By day, a B2B sales lead. I once generated $40k in a single week-long work trip. Now I'm channeling that same drive into software, and I'm currently pursuing the Google Professional Agentic Architect Certification as I go deeper into AI and tech.
+I'm self-taught and I've been coding since I was 13. These days I'm a B2B sales lead. I once generated $40k on a single week-long work trip, and I'm bringing that same energy into software. Right now I'm working toward the Google Professional Agentic Architect Certification and going deeper into AI and tech.
 
 ## 🛠️ Tech Stack
 
